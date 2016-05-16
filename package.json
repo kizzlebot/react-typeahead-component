@@ -1,5 +1,5 @@
 {
-  "name": "@tappleby/react-typeahead-component",
+  "name": "react-typeahead-component",
   "description": "Typeahead, written using the React.js library.",
   "author": "Ezequiel Rodriguez <ezequiel@yahoo.com>",
   "version": "0.10.2",
